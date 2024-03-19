@@ -1,0 +1,14 @@
+.list{
+    padding: 10px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+}
+.name{
+    text-decoration: none;
+    font-size: large;
+}

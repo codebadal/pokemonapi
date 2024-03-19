@@ -1,0 +1,19 @@
+.data{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    background: #95969c;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding: 10px 40px;
+    margin: 20px 10px;
+    color: black;
+    background: #c7c7d1;
+}
