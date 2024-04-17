@@ -1,0 +1,12 @@
+.search-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.search{
+    padding: 10px 20px;
+    border: 1px solid blue;
+    height: 1.5rem;
+    width: 12rem;
+}
